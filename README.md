@@ -1,4 +1,4 @@
-# ============================================
+<!-- # ============================================
 # PROYECTO: API DE SALUDO
 # ============================================
 # Semana 01 - Bootcamp FastAPI Zero to Hero
@@ -245,4 +245,4 @@ def get_day_period(hour: int) -> tuple[str, str]:
 #    - GET /greet/García/formal?title=Dr.
 #    - GET /greet/Ana/time-based?hour=10
 #    - GET /health
-# ============================================
+# ============================================ -->
